@@ -74,8 +74,7 @@ check_material(2,5)
 
 #task 6
 
-import warnings
-warnings.warn("Warning message")
+
 
 
 
